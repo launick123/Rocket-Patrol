@@ -12,4 +12,12 @@ let borderUISize = game.config.height / 15;
 let borderPadding = borderUISize / 3;
 
 // reserve keyboard vars
-let keyF, keyR, keyLEFT, keyRIGHT;
+let keyF, keyR, keyLEFT, keyRIGHT, keyD, keyA,keyW;
+
+//Credits/Sources
+//rocket sound - https://www.soundfishing.eu/sound/cannon
+//scream sound - https://bigsoundbank.com/detail-0477-wilhelm-scream.html
+//sprites from my cmpm 80k group construct 3 game
+//spritesheet  - https://untiedgames.itch.io/five-free-pixel-explosions/download/eyJleHBpcmVzIjoxNjUwMzUzNzg5LCJpZCI6MjY4NTMwfQ%3d%3d.0Q25qJgxuMfAXSMxNVixNzqxYfw%3d
+
+
